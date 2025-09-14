@@ -1,0 +1,73 @@
+District,Total_Flood_Area_Ha,Inundated_Area_Ha,Flood_Hazard_Pct,Flood_Hazard_Index,Flood_Hazard_Category
+Ballia,298100,114548,38,108,Very High
+Azamgarh,405400,131592,32,102,Very High
+Maharajganj,295200,118227,40,102,Very High
+Ghazipur,337700,117697,35,102,Very High
+Budaun,425954,88762,21,102,Very High
+Siddhrathnagar,289500,181092,63,100,Very High
+Bahraich,469680,104590,22,96,Very High
+Balrampur,334900,91524,27,96,Very High
+Deoria,254000,74813,29,96,Very High
+Basti,268800,60233,22,96,Very High
+Ambedkarnagar,235000,36672,16,96,Very High
+Gorakhpur,348380,159458,46,95,High
+Sant kabirnagar,164600,72427,44,95,High
+Kasganj,195874,30115,15,90,High
+Lakhimpur-Khiri,768000,70816,9,90,High
+Barabanki,389150,42671,11,90,High
+Gonda,400300,42138,11,90,High
+Ayodhya,252200,19388,8,90,High
+Sambhal,240069,21276,9,90,High
+Amroha,221521,12601,6,90,High
+Etah,248465,6470,3,90,High
+Mau,171300,46673,27,51,High
+Kushinagar,290600,27953,10,45,Moderate
+Aligarh,365000,13078,4,45,Moderate
+Hathras,180010,2857,2,45,Moderate
+Gautambudhanagar,144200,2656,2,45,Moderate
+Chandauli,248470,73420,30,34,Moderate
+Farrukhabad,218100,69540,32,34,Moderate
+Shrawasti,194820,53725,28,34,Moderate
+Hardoi,598900,84910,14,32,Moderate
+Unnao,458800,70513,15,32,Moderate
+Prayagraj,548200,46164,8,30,Low
+Mirzapur,452100,33070,7,30,Low
+Jalaun,454400,24404,5,30,Low
+Hamirpur,412190,10398,3,30,Low
+Kanpur nagar,315500,9346,3,30,Low
+Varanasi,153500,7953,5,30,Low
+Kanpur dehat,302100,7335,2,30,Low
+Lucknow,252800,4040,2,30,Low
+Banda,440800,55812,13,16,Low
+Etawah,231100,37416,16,16,Low
+Mainpuri,276000,34889,13,16,Low
+Auraiya,201600,24208,12,16,Low
+Sitapur,574300,43980,8,15,Very Low
+Shahjahanpur,457500,68050,15,15,Very Low
+Bareilly,412000,38393,9,15,Very Low
+Jaunpur,403800,22082,5,15,Very Low
+Rampur,236700,20887,9,15,Very Low
+Moradabad,227079,14778,7,15,Very Low
+Rae bareli,327289,17269,3,15,Very Low
+Bijnor,404900,15738,4,15,Very Low
+Meerut,259000,15147,6,15,Very Low
+Kannauj,209300,14763,7,15,Very Low
+Fatehpur,415200,14705,4,15,Very Low
+Muzaffurnagar,268633,14677,5,15,Very Low
+Pilibihit,349900,13572,4,15,Very Low
+Mathura,334000,12982,4,15,Very Low
+Sultanpur,244271,12969,5,15,Very Low
+Firozabad,236200,7316,3,15,Very Low
+Kaushambi,178000,5732,3,15,Very Low
+Agra,402700,5346,1,15,Very Low
+Chitrakoot,316400,5114,2,15,Very Low
+Bhadohi,101500,4966,5,15,Very Low
+Bulandshahr,435300,4832,1,15,Very Low
+Pratapgarh,373000,2875,1,15,Very Low
+Sahranpur,368900,2248,1,15,Very Low
+Ghaziabad,103400,1545,1,15,Very Low
+Shamli,134188,1505,2,15,Very Low
+Baghpat,132100,1282,1,15,Very Low
+Amethi,332424,390,0,15,Very Low
+Jhansi,502400,106,0,15,Very Low
+Lalitpur,503900,39,0,15,Very Low
